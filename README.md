@@ -23,7 +23,9 @@
   <a href="https://www.linkedin.com/in/nayrgst/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:ryan567.pr@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -78,15 +80,15 @@
 
 <br clear="both">
 
-<picture align="center">
+<div align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nayrgst/nayrgst/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nayrgst/nayrgst/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nayrgst/nayrgst/output/github-contribution-grid-snake.svg">
-</picture>
+</div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/22j3so3v4dqrmznai2o5bntlq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22j3so3v4dqrmznai2o5bntlq&count=5&unique=false" alt="Spotify recently played"  />
   </a>
