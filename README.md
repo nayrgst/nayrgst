@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Desenvolvedor Front-End Formado na Trybe! 🚀</h2>
+<h2 align="left">Desenvolvedor Full-Stack Formado na Trybe! 🚀</h2>
 
 ###
 
